@@ -1,0 +1,97 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 37px;
+    margin-left: 62px;
+
+}
+
+.Sign-up {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CB538;
+    color: #FFFFFF;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+}
+
+header {}
+
+.link-header {
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 21px;
+    color: #17233D;
+    text-align: center;
+    cursor: pointer;
+    letter-spacing: 0, 875px;
+    margin-right: 32px;
+}
+
+.Sign-up {
+    background: #6FBF44;
+    border: 1px solid #6FBF44;
+    filter: drop-shadow(8px 4px 4px rgb(0, 0, 0, 0.25));
+    border-radius: 6px;
+    width: 124px;
+    height: 48px;
+    cursor: pointer;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #ffffff;
+
+
+}
+
+.img-logo {
+    margin-top: 163;
+    margin-left: 10px;
+
+
+}
+
+section {
+    display: inline-block;
+    margin-left: 63px;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 33px;
+    margin-top: 47px;
+    margin-bottom: 38px;
+    color: #161A49;
+    filter: drop-shadow(8px 4px 4px rgb(0, 0, 0, 0.25));
+
+}
+
+p {
+    width: 500px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #4B505A;
+    margin-top: 32px;
+    margin-bottom: 65px;
+
+
+}
+
+.Sign-up2 {
+    cursor: pointer;
+    font-size: 10px;
+    letter-spacing: 1px;
+    filter: drop-shadow(8px 4px 4px rgb(0, 0, 0, 0.01));
+    font-weight: 00;
+    line-height: 27px;
+
+
+
+}
