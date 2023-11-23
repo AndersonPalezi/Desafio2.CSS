@@ -1,7 +1,7 @@
 # Desafio Html e CSS
 
 <h1>Easy projeto Mobile</h1>
-<h2>*Esse foi um dos projetos feitos nas aulas <a href="https://aulas.devclub.com.br/">DevClub< </h2>
+<h2>*Esse foi um dos projetos feitos nas aulas <a href="https://aulas.devclub.com.br/">DevClub </h2>
 <br>
 <h1>Objetivo:</h1>
 <p>*Criar um site que funcione para desktop e para despositivos mobile.</p>
