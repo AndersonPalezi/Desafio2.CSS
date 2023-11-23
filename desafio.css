@@ -91,7 +91,47 @@ p {
     filter: drop-shadow(8px 4px 4px rgb(0, 0, 0, 0.01));
     font-weight: 00;
     line-height: 27px;
-
-
-
 }
+
+@media screen and (max-width:700px){
+    .header{
+        width: 100%;
+        height: 50%;
+        padding: 0;
+        margin: 0;
+    }
+    selection{
+        display: block;
+        height: auto;
+        width: 100%;
+        position: static;
+        padding: 40px;
+    }
+    img{
+        position: relative;
+        max-width: 120%;
+    }
+    header{
+        display: none;
+    }
+    h1{
+        font-size: 38px;
+        line-height: 52px;
+        width: auto;
+        margin: 58px 58px 0 58px;
+        text-align: center;
+    }
+p{
+    margin: 25px 0 30px;
+    width: auto;
+    text-align: center;
+    font-size: 24px;
+    line-height: 30px;
+}
+Sign-up2{
+    display: block;
+    margin: auto;
+}
+    
+}
+  
