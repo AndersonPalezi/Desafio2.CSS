@@ -1,7 +1,7 @@
- Desafio Html e CSS
+# Desafio Html e CSS
 
 <h1>Easy projeto Mobile</h1>
-<h2>*Esse foi um dos projetos feitos nas aulas <a href="https://aulas.devclub.com.br/">DevClub</h2>
+<h2>*Esse foi um dos projetos feitos nas aulas <a href="https://aulas.devclub.com.br/">DevClub< </h2>
 <br>
 <h1>Objetivo:</h1>
 <p>*Criar um site que funcione para desktop e para despositivos mobile.</p>
@@ -17,7 +17,7 @@
   <p>*Um site responsivo é um site que é projetado e desenvolvido para se adaptar e fornecer uma experiência de usuário otimizada em diferentes dispositivos e tamanhos de tela. Isso significa que, independentemente do dispositivo usado para acessar o site, como computadores desktop, laptops, tablets ou smartphones, o conteúdo e o layout do site se ajustam automaticamente para se adequar à tela em questão.</p>
 <br>
 <h1>Tecnologias usadas para criaçao.</h1>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://github.com/AndersonPalezi/assets/blob/main/2.png?raw=true"/>
 
